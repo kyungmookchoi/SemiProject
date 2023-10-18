@@ -17,7 +17,7 @@ GitHub URL  : https://github.com/sungho9941/SemiProject<br/>
 
 ## 👨‍👨‍👧‍👧 팀원 소개
 ><p><strong>팀장</strong>: 서원진</p>
->총괄, 로그인, 회원가입 개발
+>로그인, 회원가입 개발
 
 ><p><strong>팀원</strong>: 윤소영</p>
 >상품 상세, 회원 프로필, 후기페이지, 관리자페이지 일부 개발
@@ -26,7 +26,7 @@ GitHub URL  : https://github.com/sungho9941/SemiProject<br/>
 >공지사항, 1:1문의, 결제, 관리자페이지 일부 개발
 
 ><p><strong>팀원</strong>: 최경묵</p>
->메인 페이지, 상품관련페이지(리스트, 등록, 수정, 삭제) 개발
+>메인 페이지, 상품관련페이지(리스트, 등록, 수정, 삭제) 개발, 소셜로그인
 
 ><p><strong>팀원</strong>: 김성호</p>
 >마이페이지, 구매내역/판매내역, 채팅 개발
@@ -60,6 +60,7 @@ GitHub URL  : https://github.com/sungho9941/SemiProject<br/>
 <img src="https://img.shields.io/badge/Other-%23121011?style=for-the-badge"> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 
+[semiProject_소가전 직거래 플랫폼.pdf](https://github.com/kyungmookchoi/SemiProject/files/12974899/semiProject_.pdf)
 
 
 
